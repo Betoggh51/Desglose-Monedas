@@ -1,0 +1,10 @@
+C:\Users\betog\OneDrive\Desktop\Algoritmos\C#\propietaria\DesgloseMonedas\DesgloseMonedas\bin\Debug\DesgloseMonedas.exe.config
+C:\Users\betog\OneDrive\Desktop\Algoritmos\C#\propietaria\DesgloseMonedas\DesgloseMonedas\bin\Debug\DesgloseMonedas.exe
+C:\Users\betog\OneDrive\Desktop\Algoritmos\C#\propietaria\DesgloseMonedas\DesgloseMonedas\bin\Debug\DesgloseMonedas.pdb
+C:\Users\betog\OneDrive\Desktop\Algoritmos\C#\propietaria\DesgloseMonedas\DesgloseMonedas\obj\Debug\DesgloseMonedas.csprojAssemblyReference.cache
+C:\Users\betog\OneDrive\Desktop\Algoritmos\C#\propietaria\DesgloseMonedas\DesgloseMonedas\obj\Debug\DesgloseMonedas.Form1.resources
+C:\Users\betog\OneDrive\Desktop\Algoritmos\C#\propietaria\DesgloseMonedas\DesgloseMonedas\obj\Debug\DesgloseMonedas.Properties.Resources.resources
+C:\Users\betog\OneDrive\Desktop\Algoritmos\C#\propietaria\DesgloseMonedas\DesgloseMonedas\obj\Debug\DesgloseMonedas.csproj.GenerateResource.cache
+C:\Users\betog\OneDrive\Desktop\Algoritmos\C#\propietaria\DesgloseMonedas\DesgloseMonedas\obj\Debug\DesgloseMonedas.csproj.CoreCompileInputs.cache
+C:\Users\betog\OneDrive\Desktop\Algoritmos\C#\propietaria\DesgloseMonedas\DesgloseMonedas\obj\Debug\DesgloseMonedas.exe
+C:\Users\betog\OneDrive\Desktop\Algoritmos\C#\propietaria\DesgloseMonedas\DesgloseMonedas\obj\Debug\DesgloseMonedas.pdb
